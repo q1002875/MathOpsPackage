@@ -32,7 +32,7 @@ public class MathOperations {
     var op1: Double?
     
     var op2: Double?
-    
+    var op3: Double?
     
     // MARK: - Init
     
